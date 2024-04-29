@@ -1,3 +1,4 @@
+
 #include "graphics.h"
 #include "picture.hpp"
 void home () {
@@ -15,3 +16,5 @@ setcolor(BLACK);
    line(530, 320, 600, 320);
    line(565, 280, 565, 360);
 }
+=======
+

@@ -2,12 +2,12 @@
 #include <picture.hpp>
 void man() {
     setfillstyle(1, LIGHTGRAY);
-    line(173, 450, 130, 495);
-    line(177, 450, 220, 495);
-    fillellipse(175, 425, 25, 25);
-    fillellipse(175, 490, 25, 40);
-    line(175, 530, 140, 580);
-    line(175, 530, 210, 580);
+    line(173, 300, 130, 345);
+    line(177, 300, 220, 345);
+    fillellipse(175, 275, 25, 25);
+    fillellipse(175, 340, 25, 40);
+    line(175, 380, 140, 430);
+    line(175, 380, 210, 430);
 }
 
 

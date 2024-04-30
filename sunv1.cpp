@@ -1,5 +1,6 @@
 #include <iostream>
 #include <graphics.h>
+#include "picture.hpp"
 using namespace std;
 void sun(){
    setfillstyle(1, COLOR(245, 170, 68));
